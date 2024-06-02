@@ -1,0 +1,11 @@
+altgraph==0.17.4
+certifi==2024.2.2
+charset-normalizer==3.3.2
+idna==3.7
+Nuitka==2.3
+ordered-set==4.1.0
+packaging==24.0
+pyinstaller-hooks-contrib==2024.6
+requests==2.32.3
+urllib3==2.2.1
+zstandard==0.22.0
