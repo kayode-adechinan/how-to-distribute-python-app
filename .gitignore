@@ -3,3 +3,4 @@ app.build
 app.dist
 build
 dist
+app.spec
