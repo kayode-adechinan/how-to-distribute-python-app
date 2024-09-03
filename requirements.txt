@@ -7,5 +7,6 @@ ordered-set==4.1.0
 packaging==24.0
 pyinstaller-hooks-contrib==2024.6
 requests==2.32.3
+setuptools==74.1.1
 urllib3==2.2.1
 zstandard==0.22.0
